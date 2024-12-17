@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a **Master’s student in Industrial Engineeri
 
 ## 📫 Let's Connect  
  
-- **LinkedIn**: [https://www.linkedin.com/in/martin-hallb%C3%A4ck/](#)  
+- **LinkedIn**: [Martin Hallbäck](https://www.linkedin.com/in/martin-hallb%C3%A4ck/)
 - **Email**: [hallback.martin@gmail.com](mailto:hallback.martin@gmail.com.com)  
 
 ---
