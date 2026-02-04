@@ -8,7 +8,7 @@ I'm a **Master’s student in Industrial Engineering and Management**, specializ
 
 - 🎓 **Education**:  
   - **Master of Science in Industrial Engineering and Management**  
-    Linköping University, Sweden (*Expected May 2026*)  
+    Linköping University, Sweden (*Expected May 2027*)  
     - Master: **Digital Business Development**
     - Minor: **Computer Science**  
 
